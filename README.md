@@ -4,7 +4,9 @@ Context-dependent modulation of gut–muscle axis phenotypes by Roseburia intest
 ## 1. Overview
 
 16S rRNA gene amplicon data from mice in the aging model were analysed in R.
-Groups: PBS, D-Gal, Live, HK, Sup, RCM. Time points: Abx-: Week 0, Week 4; Abx+: Abx 0, Abx 7, Week 8. Clinical variables at Week 4 (Abx-), week 8 (Abx+): grip strength, speed, time, distance.
+Groups: PBS, D-Gal, Live, HK, Sup, RCM. 
+Time points: Abx-: Week 0, Week 4; Abx+: Abx 0, Abx 7, Week 8. 
+Variables at Week 4 (Abx-), week 8 (Abx+): grip strength, speed, time, distance.
 
 | Script | Content |
 |---|---|
