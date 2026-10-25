@@ -1,4 +1,4 @@
-<img width="468" height="23" alt="image" src="https://github.com/user-attachments/assets/00eb23a3-2661-4aa4-a2c9-79407373e3d5" /># Gut-muscle-axis
+# Gut-muscle-axis
 Context-dependent modulation of gut–muscle axis phenotypes by Roseburia intestinalis–derived interventions
 
 ## 1. Overview
