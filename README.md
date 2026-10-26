@@ -40,7 +40,7 @@ Measured at Week 4 (Abx−) and Week 8 (Abx+):
 
 - **Raw sequencing reads:** European Nucleotide Archive (ENA), project [PRJEB95113](https://www.ebi.ac.uk/ena/browser/view/PRJEB95113).
 - **GC–MS metabolomics raw data:** MassIVE, accession [MSV000103652](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?accession=MSV000103652).
-- **Processed GC–MS metabolomics data:
+- Processed GC–MS metabolomics data:
 1) https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=02ba2a3af7f44207b84a3f253f129ca7
 2) https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=c7be457a77c54dc694a5b456392b84cd
 3) https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=08c980729dda4e7baf8968085496b3ca
